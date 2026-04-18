@@ -1,0 +1,24 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "radius_card",
+      "value": "18vp"
+    },
+    {
+      "name": "radius_input",
+      "value": "14vp"
+    },
+    {
+      "name": "radius_chip",
+      "value": "20vp"
+    },
+    {
+      "name": "radius_button",
+      "value": "22vp"
+    }
+  ]
+}

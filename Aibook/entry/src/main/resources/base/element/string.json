@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "随心记模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "本地随心记"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "随心记"
+    },
+    {
+      "name": "app_title",
+      "value": "随心记"
+    },
+    {
+      "name": "home_subtitle",
+      "value": "灵感随手记下 · 本地保存"
+    },
+    {
+      "name": "section_filter",
+      "value": "分类筛选"
+    },
+    {
+      "name": "label_title",
+      "value": "标题"
+    },
+    {
+      "name": "label_category",
+      "value": "分类"
+    },
+    {
+      "name": "label_content",
+      "value": "正文"
+    },
+    {
+      "name": "new_note",
+      "value": "新建"
+    },
+    {
+      "name": "edit_note",
+      "value": "编辑记事"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "title_hint",
+      "value": "标题"
+    },
+    {
+      "name": "content_hint",
+      "value": "写点什么…"
+    },
+    {
+      "name": "empty_hint",
+      "value": "还没有记事。点右上角「新建」开始记录。"
+    },
+    {
+      "name": "search_hint",
+      "value": "搜索标题、正文或分类"
+    },
+    {
+      "name": "filter_all",
+      "value": "全部"
+    },
+    {
+      "name": "uncategorized",
+      "value": "未分类"
+    },
+    {
+      "name": "no_match_hint",
+      "value": "没有符合条件的记事，试试调整搜索或分类。"
+    },
+    {
+      "name": "category_hint",
+      "value": "分类（可选，如：工作 / 学习）"
+    },
+    {
+      "name": "quick_category",
+      "value": "常用分类"
+    }
+  ]
+}

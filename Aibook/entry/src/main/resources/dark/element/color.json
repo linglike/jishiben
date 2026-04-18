@@ -1,0 +1,76 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#0F172A"
+    },
+    {
+      "name": "page_background",
+      "value": "#0F172A"
+    },
+    {
+      "name": "card_background",
+      "value": "#1E293B"
+    },
+    {
+      "name": "input_background",
+      "value": "#1E293B"
+    },
+    {
+      "name": "primary",
+      "value": "#818CF8"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#6366F1"
+    },
+    {
+      "name": "subtitle",
+      "value": "#94A3B8"
+    },
+    {
+      "name": "title_text",
+      "value": "#F8FAFC"
+    },
+    {
+      "name": "danger",
+      "value": "#F87171"
+    },
+    {
+      "name": "chip_background",
+      "value": "#312E81"
+    },
+    {
+      "name": "chip_muted",
+      "value": "#334155"
+    },
+    {
+      "name": "border_subtle",
+      "value": "#334155"
+    },
+    {
+      "name": "search_fill",
+      "value": "#1E293B"
+    },
+    {
+      "name": "shadow_color",
+      "value": "#00000066"
+    },
+    {
+      "name": "accent_line",
+      "value": "#475569"
+    },
+    {
+      "name": "gradient_top",
+      "value": "#0B1220"
+    },
+    {
+      "name": "gradient_mid",
+      "value": "#0F172A"
+    },
+    {
+      "name": "gradient_bottom",
+      "value": "#1E293B"
+    }
+  ]
+}
